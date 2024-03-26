@@ -17,7 +17,7 @@ Confirmation Pop-up: After selecting an agent and resolution, the user can confi
 How it works:
 
 1. Agent Location and Clicking:
-2. 
+
 The application contains predefined coordinates for each agent's selection location within the Valorant game. These coordinates are stored in dictionaries, mapping each agent's name to its corresponding (x, y) coordinates on the screen.
 When the user selects an agent from the dropdown menu, the application retrieves the coordinates associated with that agent from the dictionary.
 To simulate clicking on the agent's selection location, the application uses the pyautogui.click() function, passing the retrieved coordinates as arguments.
