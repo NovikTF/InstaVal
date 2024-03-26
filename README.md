@@ -42,18 +42,18 @@ Confirmation Pop-up: After selecting an agent and resolution, the user can confi
 
  ## How it works:
 
-1. Agent Location and Clicking:
+**1. Agent Location and Clicking:**
 
 The application contains predefined coordinates for each agent's selection location within the Valorant game. These coordinates are stored in dictionaries, mapping each agent's name to its corresponding (x, y) coordinates on the screen.
 When the user selects an agent from the dropdown menu, the application retrieves the coordinates associated with that agent from the dictionary.
 To simulate clicking on the agent's selection location, the application uses the pyautogui.click() function, passing the retrieved coordinates as arguments.
 
-3. Lock In Button:
+**3. Lock In Button:**
 
 Similarly, the application contains predefined coordinates for the "Lock In" button within the Valorant game client. These coordinates are also stored in the dictionary.
 After clicking on the agent's selection location, the application simulates a click on the "Lock In" button using the pyautogui.click() function, passing the coordinates of the button.
 
-3. Mouse Movement:
+**3. Mouse Movement:**
 
 The application uses the pyautogui library to simulate mouse movements and clicks.
 Mouse movements are simulated by directly setting the mouse cursor's position using the pyautogui.moveTo() function. This allows precise control over where the mouse cursor moves on the screen.
