@@ -67,12 +67,6 @@ By periodically moving the mouse around the button area, the application ensures
  - Purpose of Mouse Movement:
 
 The primary purpose of this mouse movement is to maintain the responsiveness of the game client and prevent any potential issues with clicking on the buttons.
- 
- - Benefits of Mouse Movement:
-
-Enhances the overall user experience by reducing the likelihood of encountering issues with button clicks in the game client.
-Helps maintain the application's reliability and effectiveness in automating agent selection.
-
 
 
 
