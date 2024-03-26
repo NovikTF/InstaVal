@@ -1,5 +1,7 @@
 # InstaVal
-Valorant fast auto instalocker app *Not bannable (march 2024)*
+Valorant fast auto instalocker app *Not bannable (march 2024)* 
+
+I wont be publishing the source code
 
 The "InstaVal" is a Python application designed to automate the selection process of agents in Valorant. The application utilizes PyQt5 for the graphical user interface (GUI) and pyautogui for simulating mouse clicks.
 
@@ -44,6 +46,11 @@ Benefits of Mouse Movement:
 
 Enhances the overall user experience by reducing the likelihood of encountering issues with button clicks in the game client.
 Helps maintain the application's reliability and effectiveness in automating agent selection.
+
+
+Installation:
+
+Download the installer, and follow the instructions in the wizard setup
 
 
 Usage:
