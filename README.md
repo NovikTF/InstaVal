@@ -64,26 +64,25 @@ Mouse Movement for Button Locations:
 After clicking on the agent's selection location and before clicking on the "Lock In" button, the application moves the mouse cursor slightly around the area where the button is located.
 By periodically moving the mouse around the button area, the application ensures that the game client remains responsive to subsequent clicks and interactions.
 
- - Purpose of Slight Mouse Movement:
 
-*The primary purpose of this mouse movement is to maintain the responsiveness of the game client and prevent any potential issues with clicking on the buttons.*
+*The primary purpose of this mouse movement is to maintain the responsiveness of the game buttons and prevent any potential issues with clicking on the buttons.*
 
 
 
 
  # External Operation and Non-Responsibility Disclaimer:
 
-1. External Operation:
+*1. External Operation:*
 
 The application operates entirely externally to the Valorant game client. It utilizes mouse simulation to interact with the game's user interface without modifying any game files or injecting code into the game client.
 This external operation ensures that the application does not interfere with the integrity or security of the game client itself. Instead, it merely automates repetitive tasks within the game's UI.
 
-2. Testing and Reliability:
+**2. Testing and Reliability:**
 
 The application has undergone small testing to ensure its functionality and reliability. Testing includes verifying agent selection accuracy, confirming button interactions, and assessing overall performance across various scenarios.
 Through testing, the application has demonstrated its effectiveness in automating agent selection while adhering to the rules and guidelines set forth by the game developers.
 
-3. Non-Responsibility Disclaimer:
+***3. Non-Responsibility Disclaimer:***
 
 Despite the thorough testing and external nature of the application, it's important to acknowledge that the use of third-party tools or applications in online games may carry certain risks.
 As the creator of the application, I explicitly state that I am not responsible for any consequences that may arise from the use of the application, including but not limited to account bans, penalties, or restrictions imposed by the game developers or platform administrators.
