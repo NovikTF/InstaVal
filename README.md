@@ -8,7 +8,7 @@ The "InstaVal" is a Python application designed to automate the selection proces
 
  ## Installation:
 
-***Download the installer, and follow the instructions in the wizard setup***
+**Download the installer, and follow the instructions in the wizard setup**
 
 
  ## Usage:
