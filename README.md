@@ -1,11 +1,28 @@
 # InstaVal
 Valorant fast auto instalocker app *Not bannable (march 2024)* 
 
-I wont be publishing the source code
+I wont be publishing the source code.
 
-The "InstaVal" is a Python application designed to automate the selection process of agents in Valorant. The application utilizes PyQt5 for the graphical user interface (GUI) and pyautogui for simulating mouse clicks.
+The "InstaVal" is a Python application designed to automate the selection process of agents in Valorant. Coded in python with ChatGPT.
 
-Features:
+
+ - Installation:
+
+Download the installer, and follow the instructions in the wizard setup
+
+
+ - Usage:
+
+Launch the application.
+Select your desired agent from the dropdown menu.
+Choose your preferred resolution from the dropdown menu.
+Click the "Confirm" button to confirm your selections.
+Press F1 to toggle auto-clicking functionality on or off.
+Additionally you can press "insert" to "bring the app on top" if it got hidden bahind a different window.
+
+
+
+ - Features:
 
 Agent Selection: The application provides a dropdown menu where the user can select their desired agent from a list of available options, including all agents in the game Valorant.
 
@@ -16,7 +33,9 @@ Toggle Clicking: By pressing the F1 key, the user can toggle the auto-clicking f
 Confirmation Pop-up: After selecting an agent and resolution, the user can confirm their choices by clicking the "Confirm" button. A pop-up window displays the selected agent and resolution for confirmation.
 
 
-How it works:
+
+
+ - How it works:
 
 1. Agent Location and Clicking:
 
@@ -38,29 +57,15 @@ Mouse Movement for Button Locations:
 After clicking on the agent's selection location and before clicking on the "Lock In" button, the application moves the mouse cursor slightly around the area where the button is located.
 By periodically moving the mouse around the button area, the application ensures that the game client remains responsive to subsequent clicks and interactions.
 
-Purpose of Mouse Movement:
+ - Purpose of Mouse Movement:
 
 The primary purpose of this mouse movement is to maintain the responsiveness of the game client and prevent any potential issues with clicking on the buttons.
-
-Benefits of Mouse Movement:
+ 
+ - Benefits of Mouse Movement:
 
 Enhances the overall user experience by reducing the likelihood of encountering issues with button clicks in the game client.
 Helps maintain the application's reliability and effectiveness in automating agent selection.
 
-
-Installation:
-
-Download the installer, and follow the instructions in the wizard setup
-
-
-Usage:
-
-Launch the application.
-Select your desired agent from the dropdown menu.
-Choose your preferred resolution from the dropdown menu.
-Click the "Confirm" button to confirm your selections.
-Press F1 to toggle auto-clicking functionality on or off.
-Additionally you can press "insert" to "bring the app on top" if it got hidden bahind a different window.
 
 
 
