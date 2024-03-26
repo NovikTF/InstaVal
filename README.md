@@ -64,9 +64,9 @@ Mouse Movement for Button Locations:
 After clicking on the agent's selection location and before clicking on the "Lock In" button, the application moves the mouse cursor slightly around the area where the button is located.
 By periodically moving the mouse around the button area, the application ensures that the game client remains responsive to subsequent clicks and interactions.
 
- - Purpose of Mouse Movement:
+* - Purpose of Slight Mouse Movement:*
 
-The primary purpose of this mouse movement is to maintain the responsiveness of the game client and prevent any potential issues with clicking on the buttons.
+*The primary purpose of this mouse movement is to maintain the responsiveness of the game client and prevent any potential issues with clicking on the buttons.*
 
 
 
