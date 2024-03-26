@@ -13,7 +13,7 @@ Download the installer, and follow the instructions in the wizard setup
 
  ## Usage:
 
-Launch the application.
+* Launch the application.
 
 Select your desired agent from the dropdown menu.
 
