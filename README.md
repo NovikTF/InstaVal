@@ -22,7 +22,7 @@ Additionally you can press "insert" to "bring the app on top" if it got hidden b
 
 
 
- - Features:
+ ## Features:
 
 Agent Selection: The application provides a dropdown menu where the user can select their desired agent from a list of available options, including all agents in the game Valorant.
 
@@ -35,7 +35,7 @@ Confirmation Pop-up: After selecting an agent and resolution, the user can confi
 
 
 
- - How it works:
+ ## How it works:
 
 1. Agent Location and Clicking:
 
