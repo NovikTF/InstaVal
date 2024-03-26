@@ -14,10 +14,15 @@ Download the installer, and follow the instructions in the wizard setup
  ## Usage:
 
 Launch the application.
+
 Select your desired agent from the dropdown menu.
+
 Choose your preferred resolution from the dropdown menu.
+
 Click the "Confirm" button to confirm your selections.
+
 Press F1 to toggle auto-clicking functionality on or off.
+
 Additionally you can press "insert" to "bring the app on top" if it got hidden bahind a different window.
 
 
