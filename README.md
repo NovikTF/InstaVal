@@ -71,7 +71,7 @@ The primary purpose of this mouse movement is to maintain the responsiveness of 
 
 
 
- ## **External Operation and Non-Responsibility Disclaimer:**
+ # External Operation and Non-Responsibility Disclaimer:
 
 1. External Operation:
 
