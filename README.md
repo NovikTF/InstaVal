@@ -48,7 +48,7 @@ The application contains predefined coordinates for each agent's selection locat
 When the user selects an agent from the dropdown menu, the application retrieves the coordinates associated with that agent from the dictionary.
 To simulate clicking on the agent's selection location, the application uses the pyautogui.click() function, passing the retrieved coordinates as arguments.
 
-**3. Lock In Button:**
+**2. Lock In Button:**
 
 Similarly, the application contains predefined coordinates for the "Lock In" button within the Valorant game client. These coordinates are also stored in the dictionary.
 After clicking on the agent's selection location, the application simulates a click on the "Lock In" button using the pyautogui.click() function, passing the coordinates of the button.
@@ -58,6 +58,8 @@ After clicking on the agent's selection location, the application simulates a cl
 The application uses the pyautogui library to simulate mouse movements and clicks.
 Mouse movements are simulated by directly setting the mouse cursor's position using the pyautogui.moveTo() function. This allows precise control over where the mouse cursor moves on the screen.
 Mouse Movement for Button Locations:
+
+**4. Slight Mouse Movement:**
 
 After clicking on the agent's selection location and before clicking on the "Lock In" button, the application moves the mouse cursor slightly around the area where the button is located.
 By periodically moving the mouse around the button area, the application ensures that the game client remains responsive to subsequent clicks and interactions.
