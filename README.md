@@ -72,7 +72,7 @@ By periodically moving the mouse around the button area, the application ensures
 
  # External Operation and Non-Responsibility Disclaimer:
 
-*1. External Operation:*
+**1. External Operation:**
 
 The application operates entirely externally to the Valorant game client. It utilizes mouse simulation to interact with the game's user interface without modifying any game files or injecting code into the game client.
 This external operation ensures that the application does not interfere with the integrity or security of the game client itself. Instead, it merely automates repetitive tasks within the game's UI.
@@ -84,7 +84,7 @@ Through testing, the application has demonstrated its effectiveness in automatin
 
 ***3. Non-Responsibility Disclaimer:***
 
-Despite the thorough testing and external nature of the application, it's important to acknowledge that the use of third-party tools or applications in online games may carry certain risks.
+***Despite the thorough testing and external nature of the application, it's important to acknowledge that the use of third-party tools or applications in online games may carry certain risks.
 As the creator of the application, I explicitly state that I am not responsible for any consequences that may arise from the use of the application, including but not limited to account bans, penalties, or restrictions imposed by the game developers or platform administrators.
 Users are advised to exercise caution and discretion when using the application, understanding that any actions taken with third-party tools may violate the terms of service or end-user license agreements of the game or platform.
-By using the application, users acknowledge and accept these risks and release the creator from any liability or responsibility for any adverse outcomes resulting from its use.
+By using the application, users acknowledge and accept these risks and release the creator from any liability or responsibility for any adverse outcomes resulting from its use.***
