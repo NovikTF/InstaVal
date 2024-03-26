@@ -1,5 +1,5 @@
 # InstaVal
-Valorant fast auto instalocker app *Not bannable (march 2024)* 
+**Valorant fast auto instalocker app *Not bannable (march 2024)* **
 
 **I wont be publishing the source code.**
 
