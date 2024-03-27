@@ -6,6 +6,11 @@
 The "InstaVal" is a Python application designed to automate the selection process of agents in Valorant. Coded in python with ChatGPT.
 
 
+### Warning
+
+*The script uses predefined loactions of the agents buttons. It will work properly only when you have all of them unlocked.*
+
+
  ## Installation:
 
 **Click Releases, download the installer, and follow the instructions in the wizard setup**
